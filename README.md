@@ -2,8 +2,8 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
 
-### 🎈 统计
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Null-K&show_icons=true&theme=tokyonight)
+### 🎈 关于我
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Null-K&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 
@@ -27,11 +27,6 @@
 
 ### 🚕 活跃状态
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Null-K&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<hr>
-
-### 👓 社交账号
-![Anurag's GitHub stats](https://stats.justsong.cn/api/bilibili/?id=105079849&theme=tokyonight)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
 <!--
