@@ -2,21 +2,18 @@
 
 ### 🎈 关于我
 <div>
-  <img src="https://s2.loli.net/2024/10/30/QHgPfaKzDnj1Mk6.gif" alt="像素头像" width="63" height="63">
-  <img src="https://s2.loli.net/2024/10/30/QHgPfaKzDnj1Mk6.gif" alt="像素头像" width="63" height="63">
-  <img src="https://s2.loli.net/2024/10/30/QHgPfaKzDnj1Mk6.gif" alt="像素头像" width="63" height="63">
-  <img src="https://s2.loli.net/2024/10/30/QHgPfaKzDnj1Mk6.gif" alt="像素头像" width="63" height="63">
-  <img src="https://s2.loli.net/2024/10/30/QHgPfaKzDnj1Mk6.gif" alt="像素头像" width="63" height="63">
-  <img src="https://s2.loli.net/2024/10/30/QHgPfaKzDnj1Mk6.gif" alt="像素头像" width="63" height="63">
-  <img src="https://s2.loli.net/2024/10/30/QHgPfaKzDnj1Mk6.gif" alt="像素头像" width="63" height="63">
-  <img src="https://s2.loli.net/2024/10/30/QHgPfaKzDnj1Mk6.gif" alt="像素头像" width="63" height="63">
-  <img src="https://s2.loli.net/2024/10/30/QHgPfaKzDnj1Mk6.gif" alt="像素头像" width="63" height="63">
-  <img src="https://s2.loli.net/2024/10/30/QHgPfaKzDnj1Mk6.gif" alt="像素头像" width="63" height="63">
-  <img src="https://s2.loli.net/2024/10/30/QHgPfaKzDnj1Mk6.gif" alt="像素头像" width="63" height="63">
-  <img src="https://s2.loli.net/2024/10/30/QHgPfaKzDnj1Mk6.gif" alt="像素头像" width="63" height="63">
-  <img src="https://s2.loli.net/2024/10/30/QHgPfaKzDnj1Mk6.gif" alt="像素头像" width="63" height="63">
-  <img src="https://s2.loli.net/2024/10/30/QHgPfaKzDnj1Mk6.gif" alt="像素头像" width="63" height="63">
-  <img src="https://s2.loli.net/2024/10/30/QHgPfaKzDnj1Mk6.gif" alt="像素头像" width="63" height="63">
+  <img src="https://s2.loli.net/2024/10/30/QHgPfaKzDnj1Mk6.gif" alt="像素头像" width="65" height="63">
+  <img src="https://s2.loli.net/2024/10/30/QHgPfaKzDnj1Mk6.gif" alt="像素头像" width="65" height="63">
+  <img src="https://s2.loli.net/2024/10/30/QHgPfaKzDnj1Mk6.gif" alt="像素头像" width="65" height="63">
+  <img src="https://s2.loli.net/2024/10/30/QHgPfaKzDnj1Mk6.gif" alt="像素头像" width="65" height="63">
+  <img src="https://s2.loli.net/2024/10/30/QHgPfaKzDnj1Mk6.gif" alt="像素头像" width="65" height="63">
+  <img src="https://s2.loli.net/2024/10/30/QHgPfaKzDnj1Mk6.gif" alt="像素头像" width="65" height="63">
+  <img src="https://s2.loli.net/2024/10/30/QHgPfaKzDnj1Mk6.gif" alt="像素头像" width="65" height="63">
+  <img src="https://s2.loli.net/2024/10/30/QHgPfaKzDnj1Mk6.gif" alt="像素头像" width="65" height="63">
+  <img src="https://s2.loli.net/2024/10/30/QHgPfaKzDnj1Mk6.gif" alt="像素头像" width="65" height="63">
+  <img src="https://s2.loli.net/2024/10/30/QHgPfaKzDnj1Mk6.gif" alt="像素头像" width="65" height="63">
+  <img src="https://s2.loli.net/2024/10/30/QHgPfaKzDnj1Mk6.gif" alt="像素头像" width="65" height="63">
+  <img src="https://s2.loli.net/2024/10/30/QHgPfaKzDnj1Mk6.gif" alt="像素头像" width="65" height="63">
 </div>
 
 ``` yaml
