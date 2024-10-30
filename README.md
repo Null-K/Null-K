@@ -1,6 +1,24 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
 
 ### 🎈 关于我
+<div>
+  <img src="https://s2.loli.net/2024/10/30/QHgPfaKzDnj1Mk6.gif" alt="像素头像" width="63" height="63">
+  <img src="https://s2.loli.net/2024/10/30/QHgPfaKzDnj1Mk6.gif" alt="像素头像" width="63" height="63">
+  <img src="https://s2.loli.net/2024/10/30/QHgPfaKzDnj1Mk6.gif" alt="像素头像" width="63" height="63">
+  <img src="https://s2.loli.net/2024/10/30/QHgPfaKzDnj1Mk6.gif" alt="像素头像" width="63" height="63">
+  <img src="https://s2.loli.net/2024/10/30/QHgPfaKzDnj1Mk6.gif" alt="像素头像" width="63" height="63">
+  <img src="https://s2.loli.net/2024/10/30/QHgPfaKzDnj1Mk6.gif" alt="像素头像" width="63" height="63">
+  <img src="https://s2.loli.net/2024/10/30/QHgPfaKzDnj1Mk6.gif" alt="像素头像" width="63" height="63">
+  <img src="https://s2.loli.net/2024/10/30/QHgPfaKzDnj1Mk6.gif" alt="像素头像" width="63" height="63">
+  <img src="https://s2.loli.net/2024/10/30/QHgPfaKzDnj1Mk6.gif" alt="像素头像" width="63" height="63">
+  <img src="https://s2.loli.net/2024/10/30/QHgPfaKzDnj1Mk6.gif" alt="像素头像" width="63" height="63">
+  <img src="https://s2.loli.net/2024/10/30/QHgPfaKzDnj1Mk6.gif" alt="像素头像" width="63" height="63">
+  <img src="https://s2.loli.net/2024/10/30/QHgPfaKzDnj1Mk6.gif" alt="像素头像" width="63" height="63">
+  <img src="https://s2.loli.net/2024/10/30/QHgPfaKzDnj1Mk6.gif" alt="像素头像" width="63" height="63">
+  <img src="https://s2.loli.net/2024/10/30/QHgPfaKzDnj1Mk6.gif" alt="像素头像" width="63" height="63">
+  <img src="https://s2.loli.net/2024/10/30/QHgPfaKzDnj1Mk6.gif" alt="像素头像" width="63" height="63">
+</div>
+
 ``` yaml
   user-id: PuddingKC
   minecraft-id: Pudding_Java
