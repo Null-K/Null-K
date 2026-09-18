@@ -1,5 +1,9 @@
 ![Group 511.png](https://s2.loli.net/2024/12/12/WuXyLFMtQDvfZ7o.png)
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Null-K&amp;style=flat-square&amp;color=333333&amp;label=Profile+views" alt="Profile views" height="20">
+</p>
+
 ### 🎈 About Me
 
 ``` yaml
@@ -30,11 +34,6 @@
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white)](#)
 [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](#)
 [![Sublime Text](https://img.shields.io/badge/Sublime%20Text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)](#)
-
----
-
-### 🚕 Activity
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Null-K&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
