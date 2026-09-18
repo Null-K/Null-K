@@ -44,7 +44,7 @@
 <p align="center"><img src="./assets/line.svg" width="100%" alt="---"></p>
 
 <p align="center">
-  <sub>Thanks for stopping by ✨</sub><br><br><img src="https://komarev.com/ghpvc/?username=Null-K&amp;style=flat-square&amp;color=FCBF47&amp;label=Profile+views" alt="Profile views" height="30">
+  <sub>Thanks for stopping by ✨</sub><br><br><img src="https://komarev.com/ghpvc/?username=Null-K&amp;style=flat-square&amp;color=FCBF47&amp;label=:D" alt="Profile views" height="20">
 </p>
 
 <!--
